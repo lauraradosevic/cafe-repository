@@ -1,2 +1,3 @@
 Das ist mein erstes Github Projekt.
-"#Branches & Remote - Skript 2"
+"#Branches & Remote - Skript 2, Schritt 2"
+
